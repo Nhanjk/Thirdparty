@@ -1,0 +1,9 @@
+
+# Disable linguist language detection for HTML files
+*.html linguist-detectable=false
+
+# Disable linguist language detection for JavaScript files
+*.js linguist-detectable=false
+
+# Disable linguist language detection for CSS files
+*.css linguist-detectable=false
